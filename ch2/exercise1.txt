@@ -1,0 +1,4 @@
+tr A Z < $HOME/temp > $HOME/temp
+
+this command makes temp stdin then redirects output to the same file
+deleting everything that was previously in it
